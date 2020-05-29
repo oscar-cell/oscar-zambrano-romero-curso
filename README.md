@@ -52,9 +52,9 @@ En cuanto a si Sócrates creía en algún dios puesto que sus acusaciones hacía
      <input type="text" NAME="TELEFONO">
      <br><br>
      COMENTARIOS:<br>
-    <TEXTAREA NAME="coment" ROWS="7" COLS="200">
-    </TEXTAREA>
-    <br>	
+     <TEXTAREA NAME="coment" ROWS="7" COLS="200">
+     </TEXTAREA>
+     <br>	
      <INPUT TYPE="SUBMIT" VALUE="SUSCRIBIRSE">
      <INPUT TYPE="reset" VALUE="CANCELAR SUSBRIPCIÓN">
 </body>
