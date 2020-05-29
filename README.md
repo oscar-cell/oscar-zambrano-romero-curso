@@ -1,7 +1,4 @@
 <HTML>
-<title>
-UN GENIO INCOMPRENDIDO
-</title>
 <marquee><head><center><h1>FORMA DE PENSAR DE UN GENIO INCOMPRENDIDO POR SU EPOCA </h1><center/></head></marquee>
 <body style="background-color: #FFA07A">
    <center><h2>Analisis a Sócrates</h2></center>
