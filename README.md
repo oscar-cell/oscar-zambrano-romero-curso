@@ -37,8 +37,7 @@ En conclusión, Sócrates fue uno de los hombres más sabios de su época que bu
      TELEFONO:<br>
      <input type="text" NAME="TELEFONO">
      <br><br>
-     COMENTARIOS:<br>
-     <TEXTAREA NAME="coment" ROWS="7" COLS="200"> </TEXTAREA>
+     COMENTARIOS:
      <INPUT TYPE="SUBMIT" VALUE="SUSCRIBIRSE">
      <INPUT TYPE="reset" VALUE="CANCELAR SUSBRIPCIÓN">
 </body>
