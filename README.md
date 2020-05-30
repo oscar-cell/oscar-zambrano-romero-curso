@@ -39,7 +39,6 @@ En conclusión, Sócrates fue uno de los hombres más sabios de su época que bu
      <br><br>
      COMENTARIOS:<br>
      <TEXTAREA NAME="coment" ROWS="7" COLS="200"> </TEXTAREA>
-     <br>	
      <INPUT TYPE="SUBMIT" VALUE="SUSCRIBIRSE">
      <INPUT TYPE="reset" VALUE="CANCELAR SUSBRIPCIÓN">
 </body>
