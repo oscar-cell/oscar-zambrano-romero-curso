@@ -1,8 +1,5 @@
 <HTML>
-<title>
-UN GENIO INCOMPRENDIDO
-</title>
-<marquee><head><center><h1>FORMA DE PENSAR DE UN GENIO INCOMPRENDIDO POR SU EPOCA </h1><center/></head></marquee>
+<head><center><h1>FORMA DE PENSAR DE UN GENIO INCOMPRENDIDO POR SU EPOCA </h1><center/></head>
 <body style="background-color: #FFA07A">
    <center><h2>Analisis a Sócrates</h2></center>
       <h3><p align=justify>Tal parece que Sócrates fue uno de los mayores genios de su época, lamentablemente su manera de enseñar y de hacer ver a los que se consideraban a si mismo sabios que en realidad desconocían de absolutamente todo, llevo a que este se hiciera de varios enemigos que ansiaban con fervor su muerte, misma que lograron llevar a cabo en el año 399 a.C.</p></br> 
